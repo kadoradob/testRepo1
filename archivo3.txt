@@ -3,3 +3,5 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 archivo3
 
 esto hace parte del punto 6 : trabajar en archivos diferentes. en archivo3
+
+Esto hace parte del punto 9
